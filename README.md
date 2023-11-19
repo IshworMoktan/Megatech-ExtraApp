@@ -14,7 +14,7 @@ Fetch posts and able to comment in post
 Caching
 
 ## Technologies Used
-Flutter
+Flutter \n
 android studio
 BLoC
 shared_preferences
