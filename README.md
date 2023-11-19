@@ -9,26 +9,42 @@ I was tasked with building a Flutter application adhering to Material UI3 design
 ## Technologies Used
 
 ## Features
+
 CRUD operation in TODOs
+
 Fetch posts and able to comment in post
+
 Caching
 
 ## Technologies Used
-Flutter \n
+
+Flutter 
+
 android studio
+
 BLoC
+
 shared_preferences
+
 Material UI3
+
 HTTP package
 
 ## Third party packages
 hexcolor
+
 bloc
+
 http
+
 flutter_bloc
+
 svg_flutter
+
 youtube_player_flutter
+
 font_awesome_flutter
+
 url_launcher
 shared_preferences
 connectivity
