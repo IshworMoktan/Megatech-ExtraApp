@@ -49,3 +49,12 @@ url_launcher
 shared_preferences
 connectivity
 lottie
+
+## Screenshots
+![photo1700403115 (5)](https://github.com/IshworMoktan/Megatech-ExtraApp/assets/89696918/350481ae-f2ad-4008-a9e2-fe2d3edb2e92)
+![photo1700403115 (4)](https://github.com/IshworMoktan/Megatech-ExtraApp/assets/89696918/c46fa266-edfc-4929-a723-c7e741cd246b)
+![photo1700403115 (1)](https://github.com/IshworMoktan/Megatech-ExtraApp/assets/89696918/bec8c5e0-cfb7-4561-92c5-12ecb749f455)
+![photo1700403115 (3)](https://github.com/IshworMoktan/Megatech-ExtraApp/assets/89696918/221b30b5-d254-4870-9f1b-a09fb4180eec)
+![photo1700403115](https://github.com/IshworMoktan/Megatech-ExtraApp/assets/89696918/ecaaff5b-56eb-46e8-84c3-b09ca18ca557)
+
+
