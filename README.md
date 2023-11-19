@@ -1,16 +1,35 @@
-# mit
+# Task Summary
+I was tasked with building a Flutter application adhering to Material UI3 design principles. The app needed to implement state management using BLoC and Flutter's built-in state management, utilize shared_preferences for data caching, gracefully handle exceptions and errors, incorporate animations and motion graphics, and optimize the app's size.
 
-A new Flutter project.
+# Table of Contents
+## Features
+## Demo Video
+## Third party packages
+## Screenshots
+## Technologies Used
 
-## Getting Started
+## Features
+CRUD operation in TODOs
+Fetch posts and able to comment in post
+Caching
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+Flutter
+android studio
+BLoC
+shared_preferences
+Material UI3
+HTTP package
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Third party packages
+hexcolor
+bloc
+http
+flutter_bloc
+svg_flutter
+youtube_player_flutter
+font_awesome_flutter
+url_launcher
+shared_preferences
+connectivity
+lottie
